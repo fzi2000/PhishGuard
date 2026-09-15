@@ -108,7 +108,7 @@ model = load_model()
 st.markdown("""
 <div class="hero">
 
-<h1>🛡️ PhishGuard SOC</h1>
+<h1>🛡️ PhishGuard</h1>
 
 <p>
 AI-Powered Phishing Investigation & Threat Response
