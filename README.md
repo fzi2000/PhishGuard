@@ -6,6 +6,8 @@ PhishGuard is an AI-powered phishing detection and email security platform that 
 
 It analyzes email content, URLs, sender information, and social-engineering indicators to generate a threat score and security assessment.
 
+[![PhishGuard](PhishGuard.png)](https://github.com/fzi2000/PhishGuard/blob/main/PhishGuard.png)
+
 ##  Features
 
 *  **NLP Phishing Detection** — Machine learning model analyzes email subject and body.
